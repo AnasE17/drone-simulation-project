@@ -1,0 +1,641 @@
+
+{
+    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
+    "temperature": 47,
+    "latitude": 0.2150748735916771,
+    "longitude": 0.5789181150642835,
+    "typeAlert": 0,
+    "time": 1586215181549
+}
+{
+    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
+    "temperature": -2,
+    "latitude": 0.7031469500706855,
+    "longitude": 0.9032681401452619,
+    "typeAlert": 0,
+    "time": 1586215181549
+}
+{
+    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
+    "temperature": -7,
+    "latitude": 0.3248542855160087,
+    "longitude": 0.8986186845514667,
+    "typeAlert": 0,
+    "time": 1586215181549
+}
+{
+    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
+    "temperature": 4,
+    "latitude": 0.7058561101484035,
+    "longitude": 0.05313937187261908,
+    "typeAlert": 0,
+    "time": 1586215187221
+}
+{
+    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
+    "temperature": 49,
+    "latitude": 0.23045501393378642,
+    "longitude": 0.6790546154416269,
+    "typeAlert": 0,
+    "time": 1586215187221
+}
+{
+    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
+    "temperature": 41,
+    "latitude": 0.7865443857284455,
+    "longitude": 0.24901104886943337,
+    "typeAlert": 0,
+    "time": 1586215192893
+}
+{
+    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
+    "temperature": 4,
+    "latitude": 0.6508844921070176,
+    "longitude": 0.028754929684693953,
+    "typeAlert": 0,
+    "time": 1586215192893
+}
+{
+    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
+    "temperature": -6,
+    "latitude": 0.4008606378936851,
+    "longitude": 0.9395910685309247,
+    "typeAlert": 0,
+    "time": 1586215192893
+}
+{
+    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
+    "temperature": -3,
+    "latitude": 0.27779453484553907,
+    "longitude": 0.8783146197421708,
+    "typeAlert": 0,
+    "time": 1586215198564
+}
+{
+    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
+    "temperature": 9,
+    "latitude": 0.44061913040593914,
+    "longitude": 0.8442225644562457,
+    "typeAlert": 0,
+    "time": 1586215198564
+}
+{
+    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
+    "temperature": 13,
+    "latitude": 0.328167992707345,
+    "longitude": 0.03953672441862621,
+    "typeAlert": 0,
+    "time": 1586215198564
+}
+{
+    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
+    "temperature": 44,
+    "latitude": 0.2457767486724377,
+    "longitude": 0.8559107105074263,
+    "typeAlert": 0,
+    "time": 1586215204236
+}
+{
+    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
+    "temperature": 0,
+    "latitude": 0.20879388667601873,
+    "longitude": 0.11756321502163547,
+    "typeAlert": 0,
+    "time": 1586215204236
+}
+{
+    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
+    "temperature": 36,
+    "latitude": 0.039468340177089,
+    "longitude": 0.6678015704046348,
+    "typeAlert": 0,
+    "time": 1586215204236
+}
+{
+    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
+    "temperature": 15,
+    "latitude": 0.44226255172811046,
+    "longitude": 0.05266436518798179,
+    "typeAlert": 0,
+    "time": 1586215209907
+}
+{
+    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
+    "temperature": 32,
+    "latitude": 0.4313044129692316,
+    "longitude": 0.7705382904168766,
+    "typeAlert": 0,
+    "time": 1586215209907
+}
+{
+    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
+    "temperature": 45,
+    "latitude": 0.9148106291811416,
+    "longitude": 0.16477246025285242,
+    "typeAlert": 0,
+    "time": 1586215215578
+}
+{
+    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
+    "temperature": 31,
+    "latitude": 0.22223441515916986,
+    "longitude": 0.5416874728062864,
+    "typeAlert": 0,
+    "time": 1586215215578
+}
+{
+    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
+    "temperature": -1,
+    "latitude": 0.7803609447042081,
+    "longitude": 0.17126315604158493,
+    "typeAlert": 0,
+    "time": 1586215221249
+}
+{
+    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
+    "temperature": 0,
+    "latitude": 0.8816651662570558,
+    "longitude": 0.04427745504592118,
+    "typeAlert": 0,
+    "time": 1586215221249
+}
+{
+    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
+    "temperature": 5,
+    "latitude": 0.22718597154828368,
+    "longitude": 0.7500533353690771,
+    "typeAlert": 0,
+    "time": 1586215221249
+}
+{
+    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
+    "temperature": 16,
+    "latitude": 0.03239353667606859,
+    "longitude": 0.4314039653429089,
+    "typeAlert": 0,
+    "time": 1586215226919
+}
+{
+    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
+    "temperature": 34,
+    "latitude": 0.8838423140180233,
+    "longitude": 0.176962882509354,
+    "typeAlert": 0,
+    "time": 1586215226919
+}
+{
+    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
+    "temperature": 16,
+    "latitude": 0.5705401848051207,
+    "longitude": 0.1259409572524669,
+    "typeAlert": 0,
+    "time": 1586215226919
+}
+{
+    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
+    "temperature": 40,
+    "latitude": 0.37648055064187647,
+    "longitude": 0.1655498139071523,
+    "typeAlert": 0,
+    "time": 1586215232591
+}
+{
+    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
+    "temperature": 5,
+    "latitude": 0.17320456843161514,
+    "longitude": 0.8027819835715132,
+    "typeAlert": 0,
+    "time": 1586215232591
+}
+{
+    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
+    "temperature": 22,
+    "latitude": 0.26725870114702177,
+    "longitude": 0.9114453123429858,
+    "typeAlert": 0,
+    "time": 1586215238262
+}
+{
+    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
+    "temperature": 1,
+    "latitude": 0.7299901051250872,
+    "longitude": 0.9550439900538862,
+    "typeAlert": 0,
+    "time": 1586215238262
+}
+{
+    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
+    "temperature": -8,
+    "latitude": 0.14583153097799384,
+    "longitude": 0.7945888900191982,
+    "typeAlert": 0,
+    "time": 1586215238262
+}
+{
+    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
+    "temperature": 34,
+    "latitude": 0.08844232402692997,
+    "longitude": 0.2889861230931621,
+    "typeAlert": 0,
+    "time": 1586215243933
+}
+{
+    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
+    "temperature": 5,
+    "latitude": 0.8763135082175687,
+    "longitude": 0.20764175331993062,
+    "typeAlert": 0,
+    "time": 1586215243933
+}
+{
+    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
+    "temperature": -6,
+    "latitude": 0.31335436082581725,
+    "longitude": 0.7429487049955277,
+    "typeAlert": 0,
+    "time": 1586215243933
+}
+{
+    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
+    "temperature": 24,
+    "latitude": 0.6759372188004347,
+    "longitude": 0.9285472533093584,
+    "typeAlert": 0,
+    "time": 1586215249604
+}
+{
+    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
+    "temperature": 43,
+    "latitude": 0.42952900354280243,
+    "longitude": 0.9990320094419425,
+    "typeAlert": 0,
+    "time": 1586215249604
+}
+{
+    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
+    "temperature": 27,
+    "latitude": 0.24446633086862957,
+    "longitude": 0.06165228286255642,
+    "typeAlert": 0,
+    "time": 1586215249604
+}
+{
+    "deviceId": "6a715bd0-5b7f-0375-832e-74595848dc04",
+    "temperature": 5,
+    "latitude": 0.9136761092083623,
+    "longitude": 0.9817667613720934,
+    "typeAlert": 0,
+    "time": 1586215654270
+}
+{
+    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
+    "temperature": 44,
+    "latitude": 0.29843278493280123,
+    "longitude": 0.15021815446945397,
+    "typeAlert": 0,
+    "time": 1586215654270
+}
+{
+    "deviceId": "5c685bc4-2a16-25f9-bf0c-713790388b83",
+    "temperature": 21,
+    "latitude": 0.15863686222401208,
+    "longitude": 0.4684495475192789,
+    "typeAlert": 0,
+    "time": 1586215654270
+}
+{
+    "deviceId": "6a715bd0-5b7f-0375-832e-74595848dc04",
+    "temperature": 24,
+    "latitude": 0.03994031065425463,
+    "longitude": 0.8971279020986225,
+    "typeAlert": 0,
+    "time": 1586215660794
+}
+{
+    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
+    "temperature": 16,
+    "latitude": 0.10583121205129065,
+    "longitude": 0.9441700396811302,
+    "typeAlert": 0,
+    "time": 1586215660794
+}
+{
+    "deviceId": "6a715bd0-5b7f-0375-832e-74595848dc04",
+    "temperature": -8,
+    "latitude": 0.2355772434460761,
+    "longitude": 0.38894199733279766,
+    "typeAlert": 0,
+    "time": 1586215667318
+}
+{
+    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
+    "temperature": -1,
+    "latitude": 0.5830510415057508,
+    "longitude": 0.47139665329702096,
+    "typeAlert": 0,
+    "time": 1586215667318
+}
+{
+    "deviceId": "5c685bc4-2a16-25f9-bf0c-713790388b83",
+    "temperature": 23,
+    "latitude": 0.5928647099235484,
+    "longitude": 0.2948396223222687,
+    "typeAlert": 0,
+    "time": 1586215667318
+}
+{
+    "deviceId": "6a715bd0-5b7f-0375-832e-74595848dc04",
+    "temperature": -5,
+    "latitude": 0.24362860881383752,
+    "longitude": 0.5761216656371441,
+    "typeAlert": 0,
+    "time": 1586215673841
+}
+{
+    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
+    "temperature": 39,
+    "latitude": 0.376077460944951,
+    "longitude": 0.29895284141805045,
+    "typeAlert": 0,
+    "time": 1586215673841
+}
+{
+    "deviceId": "5c685bc4-2a16-25f9-bf0c-713790388b83",
+    "temperature": 26,
+    "latitude": 0.020324488549853692,
+    "longitude": 0.539485064898405,
+    "typeAlert": 0,
+    "time": 1586215673841
+}
+{
+    "deviceId": "6a715bd0-5b7f-0375-832e-74595848dc04",
+    "temperature": 39,
+    "latitude": 0.37575364677405043,
+    "longitude": 0.1664789727353304,
+    "typeAlert": 0,
+    "time": 1586215680364
+}
+{
+    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
+    "temperature": 0,
+    "latitude": 0.9025425717986615,
+    "longitude": 0.13038271948073699,
+    "typeAlert": 0,
+    "time": 1586215680364
+}
+{
+    "deviceId": "5c685bc4-2a16-25f9-bf0c-713790388b83",
+    "temperature": -8,
+    "latitude": 0.7065289720178944,
+    "longitude": 0.10738042388312885,
+    "typeAlert": 0,
+    "time": 1586215680364
+}
+{
+    "deviceId": "6a715bd0-5b7f-0375-832e-74595848dc04",
+    "temperature": -9,
+    "latitude": 0.2625416745649791,
+    "longitude": 0.24448358982182028,
+    "typeAlert": 0,
+    "time": 1586215686887
+}
+{
+    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
+    "temperature": 3,
+    "latitude": 0.2607608283036289,
+    "longitude": 0.3719509601782549,
+    "typeAlert": 0,
+    "time": 1586215686887
+}
+{
+    "deviceId": "5c685bc4-2a16-25f9-bf0c-713790388b83",
+    "temperature": 10,
+    "latitude": 0.22713188722027577,
+    "longitude": 0.16227185338410233,
+    "typeAlert": 0,
+    "time": 1586215686887
+}
+{
+    "deviceId": "6a715bd0-5b7f-0375-832e-74595848dc04",
+    "temperature": 21,
+    "latitude": 0.5789318133117108,
+    "longitude": 0.5637978032210217,
+    "typeAlert": 0,
+    "time": 1586215693411
+}
+{
+    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
+    "temperature": 28,
+    "latitude": 0.9625033312114795,
+    "longitude": 0.30564847846126664,
+    "typeAlert": 0,
+    "time": 1586215693411
+}
+{
+    "deviceId": "5c685bc4-2a16-25f9-bf0c-713790388b83",
+    "temperature": 22,
+    "latitude": 0.37978326044479094,
+    "longitude": 0.13316075091829016,
+    "typeAlert": 0,
+    "time": 1586215693411
+}
+{
+    "deviceId": "6a715bd0-5b7f-0375-832e-74595848dc04",
+    "temperature": 28,
+    "latitude": 0.5570329243514186,
+    "longitude": 0.6049384067717787,
+    "typeAlert": 0,
+    "time": 1586215699935
+}
+{
+    "deviceId": "5c685bc4-2a16-25f9-bf0c-713790388b83",
+    "temperature": 28,
+    "latitude": 0.03163995617516713,
+    "longitude": 0.7844397578429735,
+    "typeAlert": 0,
+    "time": 1586215699935
+}
+{
+    "deviceId": "6a715bd0-5b7f-0375-832e-74595848dc04",
+    "temperature": 17,
+    "latitude": 0.6814649775805645,
+    "longitude": 0.8964253485015071,
+    "typeAlert": 0,
+    "time": 1586215706458
+}
+{
+    "deviceId": "5c685bc4-2a16-25f9-bf0c-713790388b83",
+    "temperature": -3,
+    "latitude": 0.013243589405333656,
+    "longitude": 0.6999106693383328,
+    "typeAlert": 0,
+    "time": 1586215706458
+}
+{
+    "deviceId": "6a715bd0-5b7f-0375-832e-74595848dc04",
+    "temperature": 41,
+    "latitude": 0.9740658996886776,
+    "longitude": 0.3384131404787045,
+    "typeAlert": 0,
+    "time": 1586215712981
+}
+{
+    "deviceId": "5c685bc4-2a16-25f9-bf0c-713790388b83",
+    "temperature": 28,
+    "latitude": 0.7681235771409687,
+    "longitude": 0.1171512206655374,
+    "typeAlert": 0,
+    "time": 1586215712981
+}
+{
+    "deviceId": "6a715bd0-5b7f-0375-832e-74595848dc04",
+    "temperature": -1,
+    "latitude": 0.05233819945142848,
+    "longitude": 0.38703586509134713,
+    "typeAlert": 0,
+    "time": 1586215719505
+}
+{
+    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
+    "temperature": 17,
+    "latitude": 0.8857333786817756,
+    "longitude": 0.9668722235678561,
+    "typeAlert": 0,
+    "time": 1586215719505
+}
+{
+    "deviceId": "5c685bc4-2a16-25f9-bf0c-713790388b83",
+    "temperature": 12,
+    "latitude": 0.9843923965885798,
+    "longitude": 0.6153217106065745,
+    "typeAlert": 0,
+    "time": 1586215719505
+}
+{
+    "deviceId": "32b92e32-df20-b69c-e0dd-e49d1f502a16",
+    "temperature": 26,
+    "latitude": 0.9304985541030574,
+    "longitude": 0.2129136507559911,
+    "typeAlert": 0,
+    "time": 1586215792013
+}
+{
+    "deviceId": "943a44cf-1cd5-3731-70f4-d61c6aa318e8",
+    "temperature": -9,
+    "latitude": 0.8418492163423881,
+    "longitude": 0.5423885273308822,
+    "typeAlert": 0,
+    "time": 1586215792013
+}
+{
+    "deviceId": "3762402e-5dc9-e671-808f-572119560cca",
+    "temperature": 16,
+    "latitude": 0.012545298415368222,
+    "longitude": 0.8658565508744531,
+    "typeAlert": 0,
+    "time": 1586215792013
+}
+{
+    "deviceId": "32b92e32-df20-b69c-e0dd-e49d1f502a16",
+    "temperature": 6,
+    "latitude": 0.6416665317099876,
+    "longitude": 0.35068631725777843,
+    "typeAlert": 0,
+    "time": 1586215798536
+}
+{
+    "deviceId": "943a44cf-1cd5-3731-70f4-d61c6aa318e8",
+    "temperature": 42,
+    "latitude": 0.7890593972664864,
+    "longitude": 0.8951277784567869,
+    "typeAlert": 0,
+    "time": 1586215798536
+}
+{
+    "deviceId": "3762402e-5dc9-e671-808f-572119560cca",
+    "temperature": 24,
+    "latitude": 0.9359627170801441,
+    "longitude": 0.2013526751587994,
+    "typeAlert": 0,
+    "time": 1586215798536
+}
+{
+    "deviceId": "32b92e32-df20-b69c-e0dd-e49d1f502a16",
+    "temperature": 40,
+    "latitude": 0.25284020766878723,
+    "longitude": 0.14884498330875884,
+    "typeAlert": 0,
+    "time": 1586215805059
+}
+{
+    "deviceId": "943a44cf-1cd5-3731-70f4-d61c6aa318e8",
+    "temperature": -8,
+    "latitude": 0.6439393601486105,
+    "longitude": 0.2370263752219388,
+    "typeAlert": 0,
+    "time": 1586215805059
+}
+{
+    "deviceId": "32b92e32-df20-b69c-e0dd-e49d1f502a16",
+    "temperature": 29,
+    "latitude": 0.27199650662834407,
+    "longitude": 0.6151201176795428,
+    "typeAlert": 0,
+    "time": 1586215811582
+}
+{
+    "deviceId": "943a44cf-1cd5-3731-70f4-d61c6aa318e8",
+    "temperature": 50,
+    "latitude": 0.3266753337072492,
+    "longitude": 0.4751835685258118,
+    "typeAlert": 0,
+    "time": 1586215811582
+}
+{
+    "deviceId": "3762402e-5dc9-e671-808f-572119560cca",
+    "temperature": -9,
+    "latitude": 0.6479768183817936,
+    "longitude": 0.9559483360431137,
+    "typeAlert": 0,
+    "time": 1586215811582
+}
+{
+    "deviceId": "32b92e32-df20-b69c-e0dd-e49d1f502a16",
+    "temperature": 26,
+    "latitude": 0.20877604859838073,
+    "longitude": 0.5626110859043659,
+    "typeAlert": 0,
+    "time": 1586215818104
+}
+{
+    "deviceId": "943a44cf-1cd5-3731-70f4-d61c6aa318e8",
+    "temperature": 36,
+    "latitude": 0.006256019486707065,
+    "longitude": 0.7962192762121706,
+    "typeAlert": 0,
+    "time": 1586215818104
+}
+{
+    "deviceId": "32b92e32-df20-b69c-e0dd-e49d1f502a16",
+    "temperature": 6,
+    "latitude": 0.810672939407801,
+    "longitude": 0.38532465324307585,
+    "typeAlert": 0,
+    "time": 1586215824628
+}
+{
+    "deviceId": "943a44cf-1cd5-3731-70f4-d61c6aa318e8",
+    "temperature": 5,
+    "latitude": 0.5689355653872096,
+    "longitude": 0.23163346612212465,
+    "typeAlert": 0,
+    "time": 1586215824628
+}
+{
+    "deviceId": "3762402e-5dc9-e671-808f-572119560cca",
+    "temperature": 50,
+    "latitude": 0.2657694260701725,
+    "longitude": 0.8268980916130898,
+    "typeAlert": 0,
+    "time": 1586215824628
+}

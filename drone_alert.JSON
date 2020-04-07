@@ -1,0 +1,81 @@
+
+{
+    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
+    "temperature": 16,
+    "latitude": 0.46681934690778315,
+    "longitude": 0.6673241452836387,
+    "typeAlert": 4,
+    "time": 1586215187221
+}
+{
+    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
+    "temperature": 22,
+    "latitude": 0.24565540543975684,
+    "longitude": 0.994411748891344,
+    "typeAlert": 8,
+    "time": 1586215209907
+}
+{
+    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
+    "temperature": -9,
+    "latitude": 0.7250038945458831,
+    "longitude": 0.8734176674513924,
+    "typeAlert": 7,
+    "time": 1586215215578
+}
+{
+    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
+    "temperature": 23,
+    "latitude": 0.016438162412090507,
+    "longitude": 0.9893544933405146,
+    "typeAlert": 7,
+    "time": 1586215232591
+}
+{
+    "deviceId": "5c685bc4-2a16-25f9-bf0c-713790388b83",
+    "temperature": 34,
+    "latitude": 0.3521108142738334,
+    "longitude": 0.8768958311422692,
+    "typeAlert": 8,
+    "time": 1586215660794
+}
+{
+    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
+    "temperature": 39,
+    "latitude": 0.8222307553889829,
+    "longitude": 0.06915329042143181,
+    "typeAlert": 6,
+    "time": 1586215699935
+}
+{
+    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
+    "temperature": 7,
+    "latitude": 0.6332392340538373,
+    "longitude": 0.10219001364505498,
+    "typeAlert": 5,
+    "time": 1586215706458
+}
+{
+    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
+    "temperature": 34,
+    "latitude": 0.5532300404755699,
+    "longitude": 0.050736316048079266,
+    "typeAlert": 2,
+    "time": 1586215712981
+}
+{
+    "deviceId": "3762402e-5dc9-e671-808f-572119560cca",
+    "temperature": -3,
+    "latitude": 0.14682751905807834,
+    "longitude": 0.6363605520518913,
+    "typeAlert": 8,
+    "time": 1586215805059
+}
+{
+    "deviceId": "3762402e-5dc9-e671-808f-572119560cca",
+    "temperature": 25,
+    "latitude": 0.5144585042969647,
+    "longitude": 0.5512011396226717,
+    "typeAlert": 1,
+    "time": 1586215818104
+}
