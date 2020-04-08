@@ -1,81 +1,159 @@
-
-{
-    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
-    "temperature": 16,
-    "latitude": 0.46681934690778315,
-    "longitude": 0.6673241452836387,
-    "typeAlert": 4,
-    "time": 1586215187221
-}
-{
-    "deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99",
-    "temperature": 22,
-    "latitude": 0.24565540543975684,
-    "longitude": 0.994411748891344,
-    "typeAlert": 8,
-    "time": 1586215209907
-}
-{
-    "deviceId": "55d01fe3-6774-1689-398a-5ac49f152c9e",
-    "temperature": -9,
-    "latitude": 0.7250038945458831,
-    "longitude": 0.8734176674513924,
-    "typeAlert": 7,
-    "time": 1586215215578
-}
-{
-    "deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9",
-    "temperature": 23,
-    "latitude": 0.016438162412090507,
-    "longitude": 0.9893544933405146,
-    "typeAlert": 7,
-    "time": 1586215232591
-}
-{
-    "deviceId": "5c685bc4-2a16-25f9-bf0c-713790388b83",
-    "temperature": 34,
-    "latitude": 0.3521108142738334,
-    "longitude": 0.8768958311422692,
-    "typeAlert": 8,
-    "time": 1586215660794
-}
-{
-    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
-    "temperature": 39,
-    "latitude": 0.8222307553889829,
-    "longitude": 0.06915329042143181,
-    "typeAlert": 6,
-    "time": 1586215699935
-}
-{
-    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
-    "temperature": 7,
-    "latitude": 0.6332392340538373,
-    "longitude": 0.10219001364505498,
-    "typeAlert": 5,
-    "time": 1586215706458
-}
-{
-    "deviceId": "cb5c4e50-6a46-825b-9375-dad7f820b641",
-    "temperature": 34,
-    "latitude": 0.5532300404755699,
-    "longitude": 0.050736316048079266,
-    "typeAlert": 2,
-    "time": 1586215712981
-}
-{
-    "deviceId": "3762402e-5dc9-e671-808f-572119560cca",
-    "temperature": -3,
-    "latitude": 0.14682751905807834,
-    "longitude": 0.6363605520518913,
-    "typeAlert": 8,
-    "time": 1586215805059
-}
-{
-    "deviceId": "3762402e-5dc9-e671-808f-572119560cca",
-    "temperature": 25,
-    "latitude": 0.5144585042969647,
-    "longitude": 0.5512011396226717,
-    "typeAlert": 1,
-    "time": 1586215818104
-}
+{"deviceId": "61bb5a14-d67f-b8fd-bd4a-f2fc437ec7b9","temperature": 16,"latitude": 0.46681934690778315,"longitude": 0.6673241452836387,"typeAlert": 4,"time": 1586215187221}
+{"deviceId": "7c6de4dd-5a58-98ef-b767-b8d5fa7d3c99","temperature": 22,"latitude": 0.24565540543975684,"longitude": 0.994411748891344,"typeAlert": 8,"time": 1586215209907}
+{"deviceId": "4494bdfc-14d8-af51-7de2-b0ea8a2ddc07","temperature": 13,"latitude": 0.35550833323402475,"longitude": 0.04637203213823127,"typeAlert": 6,"time": 1586251517169}
+{"deviceId": "4bd90045-8181-5bda-ee48-592eec342d8a","temperature": 24,"latitude": 0.7768339981767904,"longitude": 0.6890162505673683,"typeAlert": 4,"time": 1586251517169}
+{"deviceId": "eaf88306-4a43-7a91-0b25-52ec8ce90770","temperature": 40,"latitude": 0.10889001192186387,"longitude": 0.11898023208563846,"typeAlert": 4,"time": 1586251517169}
+{"deviceId": "aad2fd2f-5094-30db-63e0-044bf9878ea7","temperature": 23,"latitude": 0.8540830197339371,"longitude": 0.4453620425821313,"typeAlert": 6,"time": 1586251517169}
+{"deviceId": "20d570a2-d29c-e706-4b2a-53288488c960","temperature": 23,"latitude": 0.7849058745835937,"longitude": 0.09491327731694965,"typeAlert": 8,"time": 1586251517169}
+{"deviceId": "4a7b6774-4de3-5afd-2c20-779796dad02c","temperature": 33,"latitude": 0.26598894676506035,"longitude": 0.347837050148885,"typeAlert": 4,"time": 1586251517169}
+{"deviceId": "88a3c2d8-db61-2f9b-7dff-c2467ac43ecd","temperature": 2,"latitude": 0.19493728296287538,"longitude": 0.996025822351153,"typeAlert": 2,"time": 1586251517169}
+{"deviceId": "951033bd-42e8-42f9-b802-de55c765d648","temperature": 26,"latitude": 0.03483177463123732,"longitude": 0.06937945236132514,"typeAlert": 5,"time": 1586251517169}
+{"deviceId": "bd89f3c8-d1e8-b075-c94b-655a57538781","temperature": -7,"latitude": 0.4772260178827461,"longitude": 0.6003418374659627,"typeAlert": 6,"time": 1586251517169}
+{"deviceId": "951ad763-e03f-adf9-efe5-bd39e8fd29ae","temperature": 29,"latitude": 0.06554957427219255,"longitude": 0.7608219468238082,"typeAlert": 8,"time": 1586251517169}
+{"deviceId": "75d92c90-51f4-ac46-4316-cc754e7a3cd5","temperature": 45,"latitude": 0.9302034852058447,"longitude": 0.3654978083821946,"typeAlert": 3,"time": 1586251517169}
+{"deviceId": "467b2ae0-aac4-00e8-8a64-16dd29ed64b9","temperature": 25,"latitude": 0.4349143693961902,"longitude": 0.7764881296418226,"typeAlert": 9,"time": 1586251517169}
+{"deviceId": "d69a3a1b-d44d-60cc-57b9-c30e6c388e42","temperature": 35,"latitude": 0.39942303434451654,"longitude": 0.12008344949399385,"typeAlert": 7,"time": 1586251523681}
+{"deviceId": "61b1b3d9-8313-0f6c-e29e-405285940f9b","temperature": 20,"latitude": 0.31866134599189255,"longitude": 0.7084415684502711,"typeAlert": 1,"time": 1586251523681}
+{"deviceId": "69867dae-1ead-5fec-ecdc-19707d80517d","temperature": 23,"latitude": 0.555299018566056,"longitude": 0.9344988902150386,"typeAlert": 6,"time": 1586251523681}
+{"deviceId": "5805487b-a3e5-3977-da5e-53f7f53f6666","temperature": -10,"latitude": 0.052684574981096355,"longitude": 0.9408317719560689,"typeAlert": 9,"time": 1586251523681}
+{"deviceId": "25fd3502-76b4-8f34-8926-d2aa9c09fbe6","temperature": 5,"latitude": 0.4754980475148297,"longitude": 0.8527286216312948,"typeAlert": 10,"time": 1586251523681}
+{"deviceId": "3d6a388b-1322-14fe-fe43-c279a5ddfc10","temperature": 21,"latitude": 0.7637246682086916,"longitude": 0.9820639680318235,"typeAlert": 4,"time": 1586251523681}
+{"deviceId": "92f5f7dc-b60b-599b-1cf9-62259fee61e1","temperature": 16,"latitude": 0.07813635076105352,"longitude": 0.29045722055046097,"typeAlert": 3,"time": 1586251523681}
+{"deviceId": "c87dc257-99df-05ea-4127-dabce3961f0a","temperature": 15,"latitude": 0.1557522879089912,"longitude": 0.5734462817794568,"typeAlert": 2,"time": 1586251523681}
+{"deviceId": "98c40a4e-6413-f880-0f0a-b7e5dd129b5d","temperature": 30,"latitude": 0.11066230469140337,"longitude": 0.9895879654759898,"typeAlert": 8,"time": 1586251523681}
+{"deviceId": "cb560405-cb7d-03d5-7478-4074f2d5666e","temperature": 8,"latitude": 0.023828685661316684,"longitude": 0.4048950784465165,"typeAlert": 8,"time": 1586251523681}
+{"deviceId": "ca73059d-f3ff-1997-290d-e6f736b6f691","temperature": 38,"latitude": 0.9816623529270798,"longitude": 0.47936506163009573,"typeAlert": 10,"time": 1586251523681}
+{"deviceId": "7a3203c7-3151-6907-0168-a1a78b84a1fe","temperature": 5,"latitude": 0.8699993935651031,"longitude": 0.1597333123126965,"typeAlert": 2,"time": 1586251530192}
+{"deviceId": "668864c7-e09a-11c7-4c21-4e930588984c","temperature": 21,"latitude": 0.4521597631325225,"longitude": 0.12900668503498314,"typeAlert": 2,"time": 1586251530192}
+{"deviceId": "a57bd77d-e544-6c4d-bb17-b2122c990aee","temperature": 11,"latitude": 0.41633538300983386,"longitude": 0.5114223925752823,"typeAlert": 7,"time": 1586251530192}
+{"deviceId": "c9407f8b-f452-bd34-9eb0-fdc5fe2656fd","temperature": -9,"latitude": 0.7045058463123023,"longitude": 0.47577431266629955,"typeAlert": 7,"time": 1586251530192}
+{"deviceId": "d9d33b0a-f991-d97b-a64f-10dcac045a32","temperature": -7,"latitude": 0.364205216876452,"longitude": 0.9536948849283341,"typeAlert": 7,"time": 1586251530192}
+{"deviceId": "eb5d2ea0-5bff-74a7-1ed1-e65b5f78327c","temperature": 48,"latitude": 0.5626475483022981,"longitude": 0.524460138056485,"typeAlert": 6,"time": 1586251530192}
+{"deviceId": "5f4cb92e-18dd-64c8-03ab-c91d4f545982","temperature": 37,"latitude": 0.18069700467122862,"longitude": 0.3233429956805255,"typeAlert": 4,"time": 1586251530192}
+{"deviceId": "961180a5-72b9-8f63-ee03-a46ea18cba97","temperature": 3,"latitude": 0.2755570086440896,"longitude": 0.11819707914546596,"typeAlert": 5,"time": 1586251530192}
+{"deviceId": "98c40a4e-6413-f880-0f0a-b7e5dd129b5d","temperature": 22,"latitude": 0.4594720634252475,"longitude": 0.22278302454990428,"typeAlert": 10,"time": 1586251530192}
+{"deviceId": "3709ed4f-034b-ff1a-c4a8-271479c241aa","temperature": 4,"latitude": 0.6600777310447923,"longitude": 0.2519723242264974,"typeAlert": 5,"time": 1586251530192}
+{"deviceId": "119a8070-d053-a7a6-d444-a5cfe177a1c2","temperature": 30,"latitude": 0.6675687182392943,"longitude": 0.07939945243564339,"typeAlert": 9,"time": 1586251530192}
+{"deviceId": "3ba5277d-560a-2b97-c696-dde1a4ff45c9","temperature": 46,"latitude": 0.8343055718806237,"longitude": 0.6656082822400166,"typeAlert": 8,"time": 1586251530192}
+{"deviceId": "cb560405-cb7d-03d5-7478-4074f2d5666e","temperature": -4,"latitude": 0.9941248611177133,"longitude": 0.34332216600301657,"typeAlert": 10,"time": 1586251530192}
+{"deviceId": "e00056f1-363f-f98a-d0c3-7394da2f1b9b","temperature": 3,"latitude": 0.6958043761967813,"longitude": 0.2115029545970839,"typeAlert": 8,"time": 1586251530192}
+{"deviceId": "027bbc8c-6430-5cd0-93f8-5c974de36e1b","temperature": 24,"latitude": 0.9893114461304288,"longitude": 0.9377646731889596,"typeAlert": 7,"time": 1586251530192}
+{"deviceId": "8b66d07a-d266-d3d5-019f-b4e9ac304ad6","temperature": 31,"latitude": 0.4546647172946684,"longitude": 0.9399466724027529,"typeAlert": 8,"time": 1586251530192}
+{"deviceId": "668864c7-e09a-11c7-4c21-4e930588984c","temperature": 34,"latitude": 0.7616867664664295,"longitude": 0.10462657916064988,"typeAlert": 3,"time": 1586251536703}
+{"deviceId": "eb5d2ea0-5bff-74a7-1ed1-e65b5f78327c","temperature": 40,"latitude": 0.9222270246563324,"longitude": 0.8851205766646585,"typeAlert": 9,"time": 1586251536703}
+{"deviceId": "3997b9b9-8e5b-5feb-8eba-66dfacc3ac17","temperature": 45,"latitude": 0.11197778390574464,"longitude": 0.7247281868272497,"typeAlert": 3,"time": 1586251536703}
+{"deviceId": "17c5ff63-2354-7a59-e386-4fa389014c0b","temperature": 5,"latitude": 0.22406492721793903,"longitude": 0.8955748363483887,"typeAlert": 7,"time": 1586251536703}
+{"deviceId": "5f4cb92e-18dd-64c8-03ab-c91d4f545982","temperature": 14,"latitude": 0.5033320744991046,"longitude": 0.12877494053023497,"typeAlert": 3,"time": 1586251536703}
+{"deviceId": "5bf06e8b-13d2-4d8b-e054-c4868c8ef283","temperature": 33,"latitude": 0.142899656994795,"longitude": 0.6997527089425666,"typeAlert": 2,"time": 1586251536703}
+{"deviceId": "8f98c8e3-90eb-febd-e5ba-bb1fea779796","temperature": 48,"latitude": 0.677279833908263,"longitude": 0.9701175476072932,"typeAlert": 2,"time": 1586251536703}
+{"deviceId": "4557aa79-3ae9-8c2b-6421-d6d3966ab72a","temperature": 28,"latitude": 0.947766778943271,"longitude": 0.45009280191971013,"typeAlert": 3,"time": 1586251536703}
+{"deviceId": "6f5ad70c-557d-f54b-56f7-accda4792e3b","temperature": 14,"latitude": 0.44306583420803036,"longitude": 0.22619632611150653,"typeAlert": 4,"time": 1586251543214}
+{"deviceId": "61b1b3d9-8313-0f6c-e29e-405285940f9b","temperature": 50,"latitude": 0.3152982451339983,"longitude": 0.09223336485288691,"typeAlert": 8,"time": 1586251543214}
+{"deviceId": "ba79d705-c553-8ace-6900-591519c72eea","temperature": 22,"latitude": 0.9150009055813311,"longitude": 0.21197777203894885,"typeAlert": 5,"time": 1586251543214}
+{"deviceId": "c87dc257-99df-05ea-4127-dabce3961f0a","temperature": 49,"latitude": 0.7236360181353733,"longitude": 0.8170543502707502,"typeAlert": 8,"time": 1586251543214}
+{"deviceId": "82d354a4-96fa-4f85-2e43-d5ff94833b80","temperature": 8,"latitude": 0.5868473825904876,"longitude": 0.8407715966964951,"typeAlert": 4,"time": 1586251543214}
+{"deviceId": "20d570a2-d29c-e706-4b2a-53288488c960","temperature": 23,"latitude": 0.63585311850666,"longitude": 0.8633791395206828,"typeAlert": 9,"time": 1586251543214}
+{"deviceId": "98c40a4e-6413-f880-0f0a-b7e5dd129b5d","temperature": -5,"latitude": 0.49457573780183894,"longitude": 0.5724696816260159,"typeAlert": 9,"time": 1586251543214}
+{"deviceId": "1c6486c7-663e-bced-dbb5-e8280c5e647c","temperature": 24,"latitude": 0.5801924687745456,"longitude": 0.7560220085000229,"typeAlert": 2,"time": 1586251543214}
+{"deviceId": "8f98c8e3-90eb-febd-e5ba-bb1fea779796","temperature": 42,"latitude": 0.9036381925581388,"longitude": 0.574557558010689,"typeAlert": 7,"time": 1586251543214}
+{"deviceId": "ff66a6ee-bc55-81f1-d9e1-dfcb1b4b13d8","temperature": -3,"latitude": 0.6443228302232068,"longitude": 0.20445555442050034,"typeAlert": 3,"time": 1586251543214}
+{"deviceId": "6f5ad70c-557d-f54b-56f7-accda4792e3b","temperature": 30,"latitude": 0.42673855783209325,"longitude": 0.850817690099363,"typeAlert": 4,"time": 1586251549724}
+{"deviceId": "61b1b3d9-8313-0f6c-e29e-405285940f9b","temperature": 22,"latitude": 0.9265669005828823,"longitude": 0.3543438013005783,"typeAlert": 2,"time": 1586251549724}
+{"deviceId": "cde796ee-9be9-9947-ca6e-8f4fb74265a4","temperature": 8,"latitude": 0.8829313096228756,"longitude": 0.0894306371721526,"typeAlert": 5,"time": 1586251549724}
+{"deviceId": "443c4b42-7889-e500-459c-9eeb275046fd","temperature": 0,"latitude": 0.9202546754740767,"longitude": 0.2241583957669815,"typeAlert": 6,"time": 1586251549724}
+{"deviceId": "69867dae-1ead-5fec-ecdc-19707d80517d","temperature": -4,"latitude": 0.24886312096976348,"longitude": 0.7510819604820899,"typeAlert": 7,"time": 1586251549724}
+{"deviceId": "eaf88306-4a43-7a91-0b25-52ec8ce90770","temperature": -2,"latitude": 0.9669497171997419,"longitude": 0.030424307079261248,"typeAlert": 7,"time": 1586251549724}
+{"deviceId": "8382dbf2-6a72-0c46-c94c-8be3d03a69cd","temperature": 33,"latitude": 0.6356737232733907,"longitude": 0.30528307032869484,"typeAlert": 9,"time": 1586251549724}
+{"deviceId": "7ac57415-b6b3-cf4a-d0bf-08b2622c5887","temperature": 3,"latitude": 0.7877969223918433,"longitude": 0.0665114976950012,"typeAlert": 7,"time": 1586251549724}
+{"deviceId": "aecaa21e-0f01-8478-b526-4380d965262a","temperature": 25,"latitude": 0.32947833531736437,"longitude": 0.29583955147273855,"typeAlert": 3,"time": 1586251549724}
+{"deviceId": "f6aa4bd9-9d9a-f189-2764-d88c9f065b05","temperature": 0,"latitude": 0.9595097291517823,"longitude": 0.3603796531100286,"typeAlert": 4,"time": 1586251549724}
+{"deviceId": "49a5968f-36a0-9a3d-9e70-c0b1afc70f56","temperature": -10,"latitude": 0.16202817030566974,"longitude": 0.6586985919251473,"typeAlert": 7,"time": 1586251549724}
+{"deviceId": "119a8070-d053-a7a6-d444-a5cfe177a1c2","temperature": 43,"latitude": 0.2673898266719391,"longitude": 0.3582163635342944,"typeAlert": 1,"time": 1586251549724}
+{"deviceId": "cb560405-cb7d-03d5-7478-4074f2d5666e","temperature": 45,"latitude": 0.08796231545794775,"longitude": 0.05052479541257848,"typeAlert": 6,"time": 1586251549724}
+{"deviceId": "bd89f3c8-d1e8-b075-c94b-655a57538781","temperature": 29,"latitude": 0.22374556314176586,"longitude": 0.48527662685092676,"typeAlert": 6,"time": 1586251549724}
+{"deviceId": "4557aa79-3ae9-8c2b-6421-d6d3966ab72a","temperature": 5,"latitude": 0.4882975370887277,"longitude": 0.23289017946381996,"typeAlert": 8,"time": 1586251549724}
+{"deviceId": "4ec81f4b-3b08-4ec4-d75e-accf321cad30","temperature": 5,"latitude": 0.337637629717372,"longitude": 0.9628206415625661,"typeAlert": 2,"time": 1586251549724}
+{"deviceId": "962cdc23-137e-8e7c-6799-bf5b05f026a0","temperature": 31,"latitude": 0.31695515145507647,"longitude": 0.16829128561562345,"typeAlert": 9,"time": 1586251556236}
+{"deviceId": "c192a2e5-3ed3-4cfe-bd9a-82c6929a9c69","temperature": -6,"latitude": 0.6378104282469422,"longitude": 0.44360118990324326,"typeAlert": 1,"time": 1586251556236}
+{"deviceId": "3d6a388b-1322-14fe-fe43-c279a5ddfc10","temperature": 46,"latitude": 0.046365077204468474,"longitude": 0.6796663676475014,"typeAlert": 3,"time": 1586251556236}
+{"deviceId": "5f4cb92e-18dd-64c8-03ab-c91d4f545982","temperature": 11,"latitude": 0.5598165313771472,"longitude": 0.5218018556759049,"typeAlert": 3,"time": 1586251556236}
+{"deviceId": "7d5d747a-cc4c-38aa-5616-99acfb55c567","temperature": 44,"latitude": 0.08309641187913075,"longitude": 0.7236687937848088,"typeAlert": 4,"time": 1586251556236}
+{"deviceId": "790b490f-ea76-fdd8-7bad-f49345f62576","temperature": -7,"latitude": 0.7354832928658593,"longitude": 0.1964509886546132,"typeAlert": 3,"time": 1586251556236}
+{"deviceId": "951033bd-42e8-42f9-b802-de55c765d648","temperature": -1,"latitude": 0.17920786181417714,"longitude": 0.743688165880276,"typeAlert": 3,"time": 1586251556236}
+{"deviceId": "cb560405-cb7d-03d5-7478-4074f2d5666e","temperature": -7,"latitude": 0.13052255175717775,"longitude": 0.5234548123429369,"typeAlert": 3,"time": 1586251556236}
+{"deviceId": "ecb9e6e6-bfaa-547e-7a6d-01876924ab8f","temperature": 15,"latitude": 0.09581608457660884,"longitude": 0.6347341338966569,"typeAlert": 6,"time": 1586251556236}
+{"deviceId": "c06f3648-4b7a-df65-5d13-c7f747e06d5c","temperature": 34,"latitude": 0.08641891306869165,"longitude": 0.8353839648140178,"typeAlert": 2,"time": 1586251556236}
+{"deviceId": "2c5e375c-77a5-fc6d-716e-dab4d4525fc3","temperature": 14,"latitude": 0.592181917122736,"longitude": 0.4638451460151999,"typeAlert": 10,"time": 1586251556236}
+{"deviceId": "4ec81f4b-3b08-4ec4-d75e-accf321cad30","temperature": 44,"latitude": 0.4661427603341366,"longitude": 0.9955257179455315,"typeAlert": 1,"time": 1586251556236}
+{"deviceId": "2abd16ab-cb37-09f4-4a39-c0fb045495e5","temperature": 23,"latitude": 0.5255245066615017,"longitude": 0.013772431578993771,"typeAlert": 7,"time": 1586251617021}
+{"deviceId": "3486f520-1299-50eb-b52c-481a30b2b7ad","temperature": 30,"latitude": 0.7017032805150217,"longitude": 0.17533183771289196,"typeAlert": 2,"time": 1586251617021}
+{"deviceId": "afa12a97-999b-e622-4e2f-e08478652599","temperature": 12,"latitude": 0.8191601808722424,"longitude": 0.6287017341000417,"typeAlert": 3,"time": 1586251617021}
+{"deviceId": "ea9577f0-70e2-8eea-c208-9ea4462f30e5","temperature": 23,"latitude": 0.4478657501367497,"longitude": 0.9051403487986244,"typeAlert": 6,"time": 1586251617021}
+{"deviceId": "91ea195a-864d-b15e-562c-e3b70624baef","temperature": -9,"latitude": 0.5680751722136873,"longitude": 0.6175659147590185,"typeAlert": 3,"time": 1586251617021}
+{"deviceId": "8caa1729-bdbe-b1f8-7f4a-88a19644bb3e","temperature": -5,"latitude": 0.7429302223104993,"longitude": 0.34954248311988523,"typeAlert": 6,"time": 1586251617021}
+{"deviceId": "d6b2887f-7b03-af0f-cf66-b30de04dc613","temperature": 37,"latitude": 0.27664537948527923,"longitude": 0.04221819648133662,"typeAlert": 3,"time": 1586251617021}
+{"deviceId": "c04f0bbe-e43b-b80a-d812-ab74f0d95fb4","temperature": 5,"latitude": 0.7844403597289561,"longitude": 0.9741801351260242,"typeAlert": 6,"time": 1586251617021}
+{"deviceId": "8c76a866-6262-fe7e-bf1c-539811a4040d","temperature": -1,"latitude": 0.633000493768762,"longitude": 0.43302106884628777,"typeAlert": 3,"time": 1586251617021}
+{"deviceId": "c8770cdb-db69-19bb-8c78-5b85065eca0b","temperature": 37,"latitude": 0.012485305150657489,"longitude": 0.5624246718994602,"typeAlert": 7,"time": 1586251617021}
+{"deviceId": "a3164df4-5b16-ea73-f4fb-715dd1ce1f07","temperature": 6,"latitude": 0.5034578872672001,"longitude": 0.30087038127074206,"typeAlert": 3,"time": 1586251617021}
+{"deviceId": "6c326aad-3312-f979-b622-02be25509ecf","temperature": -9,"latitude": 0.10549631690352113,"longitude": 0.5230771777431646,"typeAlert": 8,"time": 1586251617021}
+{"deviceId": "bfbd9758-4efe-2e9e-da08-63ef6fd6262e","temperature": 34,"latitude": 0.6327887191011237,"longitude": 0.31817786765945366,"typeAlert": 9,"time": 1586251623531}
+{"deviceId": "04b9e3bc-3dfd-6ae1-bcd7-1950abe1a5e4","temperature": 17,"latitude": 0.21755563588850169,"longitude": 0.4683133125913411,"typeAlert": 1,"time": 1586251623531}
+{"deviceId": "3525d74e-8d02-6fd1-70c6-a0c642225a26","temperature": 30,"latitude": 0.9009123706009488,"longitude": 0.15928815496932647,"typeAlert": 7,"time": 1586251623531}
+{"deviceId": "8caa1729-bdbe-b1f8-7f4a-88a19644bb3e","temperature": 39,"latitude": 0.9225664596315064,"longitude": 0.09544075795662232,"typeAlert": 7,"time": 1586251623531}
+{"deviceId": "e9bdf7ca-8302-e433-d8fd-fb403c4e7e89","temperature": 44,"latitude": 0.7102113705718677,"longitude": 0.7190278815502879,"typeAlert": 8,"time": 1586251623531}
+{"deviceId": "0ec249d3-a66e-baf3-fc9c-0e489ba803c0","temperature": 43,"latitude": 0.8101299602510444,"longitude": 0.39928533158547386,"typeAlert": 5,"time": 1586251623531}
+{"deviceId": "71cb5c4b-4e97-d4bf-d365-e24eed818ec2","temperature": 12,"latitude": 0.13265746647898313,"longitude": 0.05870184187484284,"typeAlert": 9,"time": 1586251623531}
+{"deviceId": "56504ac4-1b67-97ab-d648-1df6ffc94e77","temperature": 34,"latitude": 0.13669873999094984,"longitude": 0.5158087646314375,"typeAlert": 3,"time": 1586251623531}
+{"deviceId": "179ea0ba-3eca-74c9-7821-0d538cd8fbe3","temperature": 33,"latitude": 0.18326126401695886,"longitude": 0.6260444215461429,"typeAlert": 8,"time": 1586251623531}
+{"deviceId": "6c326aad-3312-f979-b622-02be25509ecf","temperature": 10,"latitude": 0.6031919356338938,"longitude": 0.08622432208575437,"typeAlert": 6,"time": 1586251623531}
+{"deviceId": "c580281e-893a-e438-c9c8-8f3512908504","temperature": 7,"latitude": 0.5192806679998992,"longitude": 0.9464166728213795,"typeAlert": 10,"time": 1586251630043}
+{"deviceId": "ea9577f0-70e2-8eea-c208-9ea4462f30e5","temperature": 30,"latitude": 0.23086988733913216,"longitude": 0.6154303367973106,"typeAlert": 4,"time": 1586251630043}
+{"deviceId": "83593620-2b45-2e80-801b-2aa3b5ee9d72","temperature": 28,"latitude": 0.6598878890003148,"longitude": 0.5881120011376387,"typeAlert": 3,"time": 1586251630043}
+{"deviceId": "f846ba04-f6b2-bca8-c686-40e40f1d742e","temperature": 32,"latitude": 0.26017729736386463,"longitude": 0.8447965988032732,"typeAlert": 3,"time": 1586251630043}
+{"deviceId": "fc9f4ded-2823-391b-54f8-2ef0dc15f3b2","temperature": -7,"latitude": 0.11678370661021686,"longitude": 0.39352359613288845,"typeAlert": 7,"time": 1586251630043}
+{"deviceId": "cf134beb-3565-2811-f877-0bfb72685e56","temperature": 33,"latitude": 0.5929167787902114,"longitude": 0.06252855037833871,"typeAlert": 1,"time": 1586251630043}
+{"deviceId": "37ec67f3-f4de-1788-05ab-d2dfcc9feaf6","temperature": 18,"latitude": 0.686311743245845,"longitude": 0.8963488908059545,"typeAlert": 10,"time": 1586251630043}
+{"deviceId": "56504ac4-1b67-97ab-d648-1df6ffc94e77","temperature": 38,"latitude": 0.3756989366018505,"longitude": 0.16815568558653737,"typeAlert": 8,"time": 1586251630043}
+{"deviceId": "a3164df4-5b16-ea73-f4fb-715dd1ce1f07","temperature": 43,"latitude": 0.41278941530259594,"longitude": 0.5086012624838878,"typeAlert": 9,"time": 1586251630043}
+{"deviceId": "790ce88e-6803-4cca-6bd1-350e41d6f54c","temperature": -6,"latitude": 0.1986788562559233,"longitude": 0.6278209146002881,"typeAlert": 3,"time": 1586251630043}
+{"deviceId": "d0c349ed-98e0-9318-8837-622670103d79","temperature": 32,"latitude": 0.18938162427795124,"longitude": 0.355303290242616,"typeAlert": 5,"time": 1586251630043}
+{"deviceId": "9339085d-bc5b-e6ba-cfd0-ee890c3d3572","temperature": 5,"latitude": 0.09854805532667288,"longitude": 0.8873699951427901,"typeAlert": 4,"time": 1586251630043}
+{"deviceId": "e1136ed9-f226-297e-ddf5-6a6bd3b51db0","temperature": 0,"latitude": 0.758266568613807,"longitude": 0.2220233773974788,"typeAlert": 1,"time": 1586251630043}
+{"deviceId": "c387b809-9e0c-f70b-978b-a4388bb7ae3d","temperature": 48,"latitude": 0.46659821340224705,"longitude": 0.07753372773766809,"typeAlert": 3,"time": 1586251630043}
+{"deviceId": "91c086d3-9e29-ada6-e3b0-63f8a5bb418d","temperature": 44,"latitude": 0.3916304903984571,"longitude": 0.9482741682707673,"typeAlert": 10,"time": 1586251636554}
+{"deviceId": "e9bdf7ca-8302-e433-d8fd-fb403c4e7e89","temperature": 31,"latitude": 0.8096266319290193,"longitude": 0.7396730977348988,"typeAlert": 8,"time": 1586251636554}
+{"deviceId": "093141e4-08b6-e73c-919b-213a259074c5","temperature": 4,"latitude": 0.8934944657914674,"longitude": 0.9519352366303969,"typeAlert": 2,"time": 1586251636554}
+{"deviceId": "d6b2887f-7b03-af0f-cf66-b30de04dc613","temperature": 45,"latitude": 0.8809767861729643,"longitude": 0.5159409066042933,"typeAlert": 8,"time": 1586251636554}
+{"deviceId": "40b9dd05-df5b-55eb-fa0f-7ae1dd09d86b","temperature": -3,"latitude": 0.3119563804022718,"longitude": 0.45567813821376935,"typeAlert": 3,"time": 1586251636554}
+{"deviceId": "b0ae3d0f-1e60-3524-3977-edc9d6c2447d","temperature": -9,"latitude": 0.4031850755801716,"longitude": 0.991128875997053,"typeAlert": 10,"time": 1586251643066}
+{"deviceId": "82a0af50-5930-2d74-1f31-926c8ed46ca0","temperature": 0,"latitude": 0.9393321930257498,"longitude": 0.4609454699135569,"typeAlert": 1,"time": 1586251643066}
+{"deviceId": "c3f66a3e-0536-41e3-8068-c73dbdc71c67","temperature": 47,"latitude": 0.2777064422800797,"longitude": 0.023789757705514614,"typeAlert": 8,"time": 1586251643066}
+{"deviceId": "85b05e65-d13b-50b0-9bfb-f4d02f65246e","temperature": 32,"latitude": 0.8284089106973774,"longitude": 0.1272765602569067,"typeAlert": 4,"time": 1586251643066}
+{"deviceId": "e958b363-ce31-28d6-c9f2-adf6ef311c32","temperature": -7,"latitude": 0.5825636806794134,"longitude": 0.147893615004692,"typeAlert": 5,"time": 1586251643066}
+{"deviceId": "e9bdf7ca-8302-e433-d8fd-fb403c4e7e89","temperature": 50,"latitude": 0.24364308302744342,"longitude": 0.10242708538223189,"typeAlert": 1,"time": 1586251643066}
+{"deviceId": "84966863-7cfd-acf4-86f5-181a25f1431d","temperature": -6,"latitude": 0.6895583754523367,"longitude": 0.8384578012360008,"typeAlert": 2,"time": 1586251643066}
+{"deviceId": "d6b2887f-7b03-af0f-cf66-b30de04dc613","temperature": 47,"latitude": 0.45757010286133526,"longitude": 0.25164257418449754,"typeAlert": 1,"time": 1586251643066}
+{"deviceId": "3ba6472e-f354-6186-8364-18568a5ebfd6","temperature": 49,"latitude": 0.40372414070184404,"longitude": 0.5349440371366335,"typeAlert": 7,"time": 1586251643066}
+{"deviceId": "40b9dd05-df5b-55eb-fa0f-7ae1dd09d86b","temperature": 15,"latitude": 0.4199914642349407,"longitude": 0.2150084242021243,"typeAlert": 9,"time": 1586251643066}
+{"deviceId": "c8770cdb-db69-19bb-8c78-5b85065eca0b","temperature": 2,"latitude": 0.012224799282353982,"longitude": 0.9347332495579367,"typeAlert": 4,"time": 1586251643066}
+{"deviceId": "790ce88e-6803-4cca-6bd1-350e41d6f54c","temperature": 26,"latitude": 0.9361068803008166,"longitude": 0.013549676772188546,"typeAlert": 8,"time": 1586251643066}
+{"deviceId": "68715bf0-27ae-5246-b24f-6ad0f9555b6a","temperature": 41,"latitude": 0.9182997456112035,"longitude": 0.13084087932184418,"typeAlert": 9,"time": 1586251643066}{"deviceId": "95637e73-103a-b264-4905-75fbce316af7","temperature": 1,"latitude": 0.19055014255062952,"longitude": 0.12854694806417222,"typeAlert": 1,"time": 1586253495501}
+{"deviceId": "f6c2859b-7c4c-7456-373a-29becf5f34ba","temperature": 46,"latitude": 0.5104208829154544,"longitude": 0.47888048414677353,"typeAlert": 10,"time": 1586253500362}
+{"deviceId": "60311403-6b07-75a1-fbc7-d6bf497bc945","temperature": 39,"latitude": 0.8329472255243597,"longitude": 0.44453606773525633,"typeAlert": 8,"time": 1586253500362}
+{"deviceId": "d25d9ef8-807c-408e-98cf-d12d3776ee1e","temperature": 27,"latitude": 0.03106012269332925,"longitude": 0.29062054183797204,"typeAlert": 4,"time": 1586339576009}
+{"deviceId": "d25d9ef8-807c-408e-98cf-d12d3776ee1e","temperature": -2,"latitude": 0.43303754671134354,"longitude": 0.3158301919016778,"typeAlert": 8,"time": 1586339581024}
+{"deviceId": "6c21d803-52ac-e3b4-1991-9a84fe0b9738","temperature": 8,"latitude": 0.5118865672783218,"longitude": 0.36821084543664895,"typeAlert": 10,"time": 1586339591055}
+{"deviceId": "d25d9ef8-807c-408e-98cf-d12d3776ee1e","temperature": 49,"latitude": 0.29654037053433047,"longitude": 0.6347101851561605,"typeAlert": 7,"time": 1586339596070}
+{"deviceId": "d25d9ef8-807c-408e-98cf-d12d3776ee1e","temperature": -7,"latitude": 0.04013405841902973,"longitude": 0.9655198435189954,"typeAlert": 8,"time": 1586339611116}
+{"deviceId": "a7232eec-4fbe-a335-43e5-68e718489b69","temperature": 12,"latitude": 0.2759355738671395,"longitude": 0.09344991629813304,"typeAlert": 3,"time": 1586339611116}
+{"deviceId": "6c21d803-52ac-e3b4-1991-9a84fe0b9738","temperature": 43,"latitude": 0.17971175888320245,"longitude": 0.445704346817161,"typeAlert": 4,"time": 1586339616131}
+{"deviceId": "d25d9ef8-807c-408e-98cf-d12d3776ee1e","temperature": 21,"latitude": 0.6810092643454456,"longitude": 0.588622419311945,"typeAlert": 7,"time": 1586339636192}
+{"deviceId": "677ad793-bbab-a911-fa71-d05fcdb8c908","temperature": 43,"latitude": 0.562163430140708,"longitude": 0.18427969002132383,"typeAlert": 10,"time": 1586339636192}
+{"deviceId": "a7232eec-4fbe-a335-43e5-68e718489b69","temperature": 46,"latitude": 0.44952679173399634,"longitude": 0.5501627088074044,"typeAlert": 9,"time": 1586339646222}
+{"deviceId": "a7232eec-4fbe-a335-43e5-68e718489b69","temperature": 45,"latitude": 0.11692891916025483,"longitude": 0.6534503641003356,"typeAlert": 10,"time": 1586339651237}
+{"deviceId": "6c21d803-52ac-e3b4-1991-9a84fe0b9738","temperature": -1,"latitude": 0.40411363204280815,"longitude": 0.3150480661001931,"typeAlert": 4,"time": 1586339661268}
+{"deviceId": "6c21d803-52ac-e3b4-1991-9a84fe0b9738","temperature": 7,"latitude": 0.5989969723378105,"longitude": 0.012130232000133079,"typeAlert": 8,"time": 1586339676313}
+{"deviceId": "d25d9ef8-807c-408e-98cf-d12d3776ee1e","temperature": 28,"latitude": 0.8640695347019648,"longitude": 0.7039388487248254,"typeAlert": 7,"time": 1586339681327}
+{"deviceId": "6c21d803-52ac-e3b4-1991-9a84fe0b9738","temperature": 24,"latitude": 0.06149985095791888,"longitude": 0.6935006293225833,"typeAlert": 9,"time": 1586339686343}
+{"deviceId": "b8f678a6-c180-5a1f-fb45-e55d7aa5e670","temperature": 35,"latitude": 0.033495484883457216,"longitude": 0.9429600895649412,"typeAlert": 1,"time": 1586351309691}

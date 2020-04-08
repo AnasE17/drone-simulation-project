@@ -17,15 +17,7 @@ case class DroneDevice(droneId: String, temperature: Int, latitude: Double, long
     }
 
   def toJson() : String = {
-    s"""
-       |{
-       |    "deviceId": "${droneId}",
-       |    "temperature": ${temperature},
-       |    "latitude": ${latitude},
-       |    "longitude": ${longitude},
-       |    "typeAlert": ${alertType},
-       |    "time": ${time}
-       |}""".stripMargin
+    s"""{"deviceId": "${droneId}","temperature": ${temperature},"latitude": ${latitude},"longitude": ${longitude},"typeAlert": ${alertType},"time": ${time}}""".stripMargin
   }
 }
 

@@ -40,7 +40,7 @@ object DroneConsumerApp extends SimpleSwingApplication{
                   if(map("typeAlert")==0){
                     val fw = new FileWriter("drone_data.json", true)
                     try {
-                      fw.write(m)
+                      fw.write(m+'\n')
                     }
                     finally fw.close()
                   }
@@ -48,7 +48,7 @@ object DroneConsumerApp extends SimpleSwingApplication{
                     Dialog.showMessage(contents.head," Alert Code : "+map("typeAlert")+"\nLocalisation : ("+map("longitude")+", "+map("latitude")+")",title = "New Alert")
                     val fw = new FileWriter("drone_alert.json", true)
                     try {
-                      fw.write(m)
+                      fw.write(m+'\n')
                     }
                     finally fw.close()
                   }
